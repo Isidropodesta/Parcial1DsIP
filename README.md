@@ -1,5 +1,5 @@
 
-# **Parcial Mercado Libre **
+## **Parcial Mercado Libre**
 
 
 
@@ -35,10 +35,15 @@ Levantar la base de datos H2
 ## **ENDPOINTS**
 
 POST:Devuelve si un ADN es mutante o no
-persona/mutant
+```bash
+   persona/mutant
+   ```
 
 GET:Devuelve una estadística con cantidad de mutantes y humanos
-persona/stats
+
+```bash
+   persona/stats
+   ```
 ## **RENDER**
 
 https://parcial1dsip.onrender.com
